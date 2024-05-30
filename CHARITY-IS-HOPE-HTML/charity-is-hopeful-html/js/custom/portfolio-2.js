@@ -1,0 +1,3 @@
+jQuery(document).ready(function() {
+jQuery("#sc_blogger_139373674 .isotope_filters").append("<a href=\"#\" data-filter=\"*\" class=\"theme_button active\">All</a><a href=\"#\" data-filter=\".flt_33\" class=\"theme_button\">Animals</a><a href=\"#\" data-filter=\".flt_20\" class=\"theme_button\">Climat</a><a href=\"#\" data-filter=\".flt_13\" class=\"theme_button\">Food</a><a href=\"#\" data-filter=\".flt_21\" class=\"theme_button\">Forests</a><a href=\"#\" data-filter=\".flt_10\" class=\"theme_button\">Fresh Water</a><a href=\"#\" data-filter=\".flt_58\" class=\"theme_button\">Gallery</a><a href=\"#\" data-filter=\".flt_18\" class=\"theme_button\">Oceans</a><a href=\"#\" data-filter=\".flt_12\" class=\"theme_button\">Wildlife</a>");
+});
