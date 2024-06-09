@@ -1962,7 +1962,7 @@ body:not(.top_panel_fixed) .top_panel_position_over .top_panel_bottom {
 .top_panel_top_socials {
 	margin-left:3em;
 }
-.top_panel_wrap .sc_socials a:before,
+.top_panel_wrap .sc__s a:before,
 .top_panel_wrap .sc_socials [class*="icon-"]:before {
 	margin-right:0;
 }
@@ -3474,6 +3474,10 @@ li.opened > a > .open_child_menu:before {
 }
 .header_mobile .mask.show {
 	right: 0;
+}
+
+.logo_main {
+	height: 80px;
 }
 
 /* content wrap */
@@ -6201,6 +6205,7 @@ blockquote cite {
 .footer_wrap_inner.widget_area_inner .width_right > .columns_wrap {
     width: 94%;
 }
+
 
 
 
